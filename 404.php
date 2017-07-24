@@ -7,7 +7,7 @@
  *  Copyright (c) 2016 Samerton
  */
 
-header($_SERVER["SERVER_PROTOCOL"]." 404 Not Found"); 
+header($_SERVER["SERVER_PROTOCOL"]." A 404 error!"); 
 
 ?>
 
